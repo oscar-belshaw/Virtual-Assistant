@@ -1,2 +1,2 @@
 # Virtual-Assistant
-The outline and setup of a voice assistant along the lines of siri/alexa
+The outline of a voice assistant with the groundwork to add more functionality such as the addition of the Apple Music API. The motivation for this project was to have a virtual assistant similar to siri/alexa but rather than being limited to one companies technologies, would be able to pull together multiple companies in to a single program (ie using Apple's music platform, Google's Calendar, and Amazons shopping API)
